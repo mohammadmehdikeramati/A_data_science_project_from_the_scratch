@@ -14,9 +14,11 @@ The thing about these metrics is that, they are not proper in nonlinear relation
 ## Feature selection based on visualization
 Visualizing each pare of a factor and our target can make last step mateixes' vlues more sensable. Indeed, if you compare claculated correlation values between 'Month' and 'Quality Score' with their visualiztion, you can understand why both Pearson and Spearman correlation values of this pare is much more than other pares. 
 
-## Keep continue selection via feature combination
-From our last step observtion it can be concluded the features can be classified into two main categories, numerical features (such as  'Interviewer_WorkExperience', 'Interviewer_age','FU_Month' ) and categorical features (such as 'Eligible', 'Participant_gender', 'Participant_ethnicity', 'Intervention_group', 'City_code', 'Village_Cluster', 'Village_StateCode','Interviewer_Gender','Interviewer_Education', 'Interviewer_Ethnicity'). 
+From this step observtion it can be concluded the features can be classified into two main categories, numerical features (such as  'Interviewer_WorkExperience', 'Interviewer_age','FU_Month' ) and categorical features (such as 'Eligible', 'Participant_gender', 'Participant_ethnicity', 'Intervention_group', 'City_code', 'Village_Cluster', 'Village_StateCode','Interviewer_Gender','Interviewer_Education', 'Interviewer_Ethnicity'). So, it is much better to investigate each category seprately.
+
+## Categorical features
 
 
-As a result, it is much better to investigate each category seprately. 
+### Keep continue selection via feature combination
+
 
