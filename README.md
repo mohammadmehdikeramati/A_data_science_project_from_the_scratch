@@ -11,6 +11,8 @@ The results of applying these two correlation metrics were demonstrated below (r
 
 The thing about these metrics is that, they are not proper in nonlinear relation detection. Therefore, to detect any nonlinearity we have to employ stronger strategies. The below figure can make this issue more understanable:
 
+## Feature selection based on visualization
+Visualizing each pare of a factor and our target can make last step mateixes' vlues more sensable. Indeed, if you compare claculated correlation values between 'Month' and 'Quality Score' with their visualiztion, you can understand why both Pearson and Spearman correlation values of this pare is much more than other pares. 
 
-
+It is worth mentioning 
 
