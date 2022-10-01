@@ -17,7 +17,7 @@ Visualizing each pare of a factor and our target can make last step mateixes' vl
 From this step observtion it can be concluded the features can be classified into two main categories, numerical features (such as  'Interviewer_WorkExperience', 'Interviewer_age','FU_Month' ) and categorical features (such as 'Eligible', 'Participant_gender', 'Participant_ethnicity', 'Intervention_group', 'City_code', 'Village_Cluster', 'Village_StateCode','Interviewer_Gender','Interviewer_Education', 'Interviewer_Ethnicity'). So, it is much better to investigate each category seprately.
 
 ## Categorical features
-
+The important thing which can be concluded from categorical features observation is that, mostly the variation in each feature's class   
 
 ### Keep continue selection via feature combination
 
