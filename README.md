@@ -23,7 +23,12 @@ The obtained results from correlation calculation illustrate that, the relations
 
 At the first, I made my real effort to creat all the possible combination of these features. For example, all the possible way to opt two features from ten and combining them, all the possible way to opt three features from ten and combining them, all the possible way to opt four features from ten and combining them and etc. I did this strategy to combine two, three, four and five features and I found it is not an efficient way because not only investigating all the combinations' figures takes a huge amount of time, but also it is almost impposible beacuse the variation of many combinations are really close to each other and chossing between them is not possible. More important, combining features with this manner will exponentialy increase numbmers of classes sepecifically from four features on.   
 
-Because of these issuses we have to find a way to achieve maximum variation via combining the least numbers of features. Hence, 'wisely combining feature method' and 'the best best variation creation method' were proposed. With regards to the former one, 
+Because of these issuses we have to find a way to achieve maximum variation via combining the least numbers of features. Hence, 'the best best variation creation method' and 'wisely combining feature method' were proposed. With regards to the former one, the features which have bigger differnce between thier classes' mean , are eligible to be opted for combination. The eligibility can be listed as follow:
+
+1- City_code: it has three classes and difference among clasess are 0.08, 2.16 and 2.25
+2- Village_state_code: it has two classes and the difference between classes are 1.144
+3- Interviewer_education: it has three classes and difference among clasess are 0.669, 0.911 and 0.212
+
 
 In terms of latter one,   
 
