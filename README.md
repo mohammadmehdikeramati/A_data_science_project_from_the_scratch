@@ -25,12 +25,23 @@ At the first, I made my real effort to creat all the possible combination of the
 
 Because of these issuses we have to find a way to achieve maximum variation via combining the least numbers of features. Hence, 'the best best variation creation method' and 'wisely combining feature method' were proposed. With regards to the former one, the features which have bigger differnce between thier classes' mean , are eligible to be opted for combination. The eligibility can be listed as follow:
 
-1- City_code: it has three classes and difference among clasess are 0.08, 2.16 and 2.25
+1- City_code: it has three classes and difference among clasess are 0.08, 2.16 and 2.25.
 
-2- Village_state_code: it has two classes and the difference between classes are 1.144
+2- Village_state_code: it has two classes and the difference between classes is 1.144.
 
-3- Interviewer_education: it has three classes and difference among clasess are 0.669, 0.911 and 0.212
+3- Interviewer_education: it has three classes and difference among clasess are 0.669, 0.911 and 0.212.
 
+4- Participant_ ethnicity: it has two classes and the difference between classes is 0.682.
+
+5- Participant_ gender: it has two classes and the difference between classes is 0.645.
+
+6- Interviention_ group: it has two classes and the difference between classes is 0.590.
+
+7- Eligible: it has two classes and the difference between classes is 0.459.
+
+8- Interviewer_gender: it has two classes and the difference between classes is 0.453.
+
+9- Interviewer_ethnicity: it has two classes and the difference between classes is 0.433.
 
 In terms of latter one,   
 
