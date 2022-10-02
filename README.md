@@ -23,7 +23,7 @@ The obtained results from correlation calculation illustrate that, the relations
 
 At the first, I made my real effort to creat all the possible combination of these features. For example, all the possible way to opt two features from ten and combining them, all the possible way to opt three features from ten and combining them, all the possible way to opt four features from ten and combining them and etc. I did this strategy to combine two, three, four and five features and I found it is not an efficient way because not only investigating all the combinations' figures takes a huge amount of time, but also it is almost impposible beacuse the variation of many combinations are really close to each other and chossing between them is not possible. More important, combining features with this manner will exponentialy increase numbmers of classes sepecifically from four features on.   
 
-Because of these issuses we have to find a way to achieve maximum variation via combining the least numbers of features. Hence, 'the best variation creation method' and 'wisely combining feature method' were proposed. With regards to the former one, the features which have bigger differnce between thier classes' mean , are eligible to be opted for combination. The eligibility can be listed as follow:
+Because of these issuses we have to find a way to achieve maximum variation via combining the least numbers of features. Hence, 'the best variation creation' method and 'wisely combining feature' method were proposed. With regards to the former one, the features which have bigger differnce between thier classes' mean , are eligible to be opted for combination. The eligibility can be listed as follow:
 
 1- City_code: it has three classes and difference among clasess are 0.08, 2.16 and 2.25.
 
@@ -53,9 +53,10 @@ In terms of latter one, classifing categorical features into two groups of 'part
 
 
 
-In terms of participnt class, number of features which can be cinsidered as participant information is six ('Eligible', 'Participant_gender', 'Participant_ethnicity', 'Intervention_group', 'City_code', 'Village_StateCode')
+In terms of participnt class, number of features which can be cinsidered as participant information is six ('Eligible', 'Participant_gender', 'Participant_ethnicity', 'Intervention_group', 'City_code', 'Village_StateCode'). Because combination of these number of features can inrease number of classes exponantialy, we removed some of them which accordig the proposed list in 'the best variation creation' method cannot imporove variation too much.
 
 
 
 
-Village_Cluster
+
+It is noteworthy mentioning that, having closer look on our data set indicates 'Village_Cluster' is not an independent feature.
