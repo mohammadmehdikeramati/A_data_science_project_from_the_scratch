@@ -57,9 +57,9 @@ In terms of participnt class, number of features which can be cinsidered as part
 
 Combintion of all features:
 
-Combintion of five features:
+Combintion of five features (one of them were removed):
 
-Combintion of four features:
+Combintion of four features (two of them were removed):
 
 
 
