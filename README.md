@@ -55,8 +55,12 @@ In terms of latter one, classifing categorical features into two groups of 'part
 
 In terms of participnt class, number of features which can be cinsidered as participant information is six ('Eligible', 'Participant_gender', 'Participant_ethnicity', 'Intervention_group', 'City_code', 'Village_StateCode'). Because combination of these number of features can inrease number of classes exponantialy, we removed some of them which accordig the proposed list in 'the best variation creation' method cannot imporove variation too much.
 
+Combintion of all features:
+
+Combintion of five features:
+
+Combintion of four features:
 
 
 
-
-It is noteworthy mentioning that, having closer look on our data set indicates 'Village_Cluster' is not an independent feature.
+It is noteworthy mentioning that, having closer look at our data set indicates 'Village_Cluster' is not an independent feature.
