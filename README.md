@@ -49,7 +49,13 @@ The combination's figure of respectively first three, four, five and six feature
 
 
 
-In terms of latter one, classifing categirical features into two groups of 'participant' and 'interviewer' and removing features, which only increase numbers of classes and do not improve variation from each class seems to be more rational.
+In terms of latter one, classifing categorical features into two groups of 'participant' and 'interviewer' and then removing features, which only increase numbers of classes and do not improve variation from each class, seems to be more rational. In terms of interviewer group, number of features which can be cinsidered as interviwer information is three ('Interviewer_Gender','Interviewer_Education', 'Interviewer_Ethnicity') and accordingly, the number of classes, which are created with this number of features is eleven. The combination's figure is demontrated in the following:
 
 
 
+In terms of participnt class, number of features which can be cinsidered as participant information is six ('Eligible', 'Participant_gender', 'Participant_ethnicity', 'Intervention_group', 'City_code', 'Village_StateCode')
+
+
+
+
+Village_Cluster
