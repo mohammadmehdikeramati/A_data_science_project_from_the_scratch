@@ -5,6 +5,18 @@ In this project the objective is finding the most effective factors among propos
 At the first stage to achieve an intuition we used both Pearson and Spearman correlation to detect relationship between each factor and our target. The fundamental difference between the two correlation coefficients is that the Pearson coefficient works with a linear relationship between the two variables whereas the Spearman Coefficient works with monotonic relationships as well.This issue is explainable via below figures:
 
 
+![State 1](https://user-images.githubusercontent.com/42337253/194723779-b66fbdff-edfd-461c-9ad0-497d9dd5df27.PNG)
+
+![State 2](https://user-images.githubusercontent.com/42337253/194723785-310cafdb-6d46-4f3f-9764-9c4c0a216c49.PNG)
+
+![State 3](https://user-images.githubusercontent.com/42337253/194723786-1494ceef-d8ee-47db-9993-4ca0384f2153.PNG)
+
+![State 4](https://user-images.githubusercontent.com/42337253/194723790-d2afb1af-0eed-417a-9a67-93d2a0c06c8d.PNG)
+
+![State 5](https://user-images.githubusercontent.com/42337253/194723793-3000a41c-b493-41fa-b219-63dbe4567d6a.PNG)
+
+![State 6](https://user-images.githubusercontent.com/42337253/194723801-b2639a4a-dabc-4070-a85b-394585837a14.PNG)
+
 
 The results of applying these two correlation metrics were demonstrated below (respectively the first one is Pearson and the second one is Spearman correlation):
 
