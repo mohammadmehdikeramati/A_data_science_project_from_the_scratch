@@ -120,6 +120,11 @@ Combintion of four features (two of them were removed):
 
 It is noteworthy mentioning that, having closer look at our data set indicates 'Village_Cluster' is not an independent feature. This kind of feature combination is uploaded as 'Combining features and visualization- wisely'.
 
+In order to find the best created features (ones which have stronger relation with target), some supervised algorithms were implemented. This is because these algorithms can consider even non linear relations. Finding relation between a categorical feature and a numerical target can be done through two manners. Firstly, considering this problem as a regression problem and using regression algorithm. Secondly, reversing the problem (considering our target as a feature and our feature as a target) and solving it as a classification problem. 
+
+
+
+Indeed, in this method the prediction result of regression algorithms using a feature, which has a lower Mean Absolute Errore or Mean Squre Error, that feature can be opted as the most correlated feature with target
 ## Numerical features
 
 
