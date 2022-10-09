@@ -72,7 +72,7 @@ The obtained results from correlation calculation illustrate that, the relations
 
 At the first, I made my real effort to creat all the possible combination of these features. For example, all the possible way to opt two features from ten and combining them, all the possible way to opt three features from ten and combining them, all the possible way to opt four features from ten and combining them and etc. I did this strategy to combine two, three, four and five features and I found it is not an efficient way because not only investigating all the combinations' figures takes a huge amount of time, but also it is almost impposible beacuse the variation of many combinations are really close to each other and chossing between them is not possible. More important, combining features with this manner will exponentialy increase numbmers of classes sepecifically from four features on. This section code is uploaded as 'Combining features and visualization'.   
 
-Because of these issuses, we have to find a way to achieve maximum variation via combining the least numbers of features. Hence, 'the best variation creation' method and 'wisely combining feature' method were proposed. With regards to the former one, the features which have bigger differnce between thier classes' mean , are eligible to be opted for combination. The eligibility can be listed as follow:
+Because of these issuses, we have to find a way to achieve maximum variation via combining the least numbers of features. Hence, 'the best variation creation' method and 'wisely combining feature' method were proposed. With regards to the former one, the features which have bigger differnce between thier classes' mean , are eligible to be opted for combination. The eligibility list is:
 
 1- City_code: it has three classes and difference among clasess are 0.08, 2.16 and 2.25.
 
@@ -124,7 +124,7 @@ In order to find the best created features (ones which have stronger relation wi
 
 In terms of using regression algortithms, two different approaches were considered: Applying liner regression and a Artificial Neural Network (ANN) based regression. In both methods, algorithms try to predict target using features (one by one). A featre will be selected, which its prediction (result of implementing regression algorithms on it) has a lower Mean Absolute Errore or Mean Squre Error. This part's code was uploaded as 'Regression categorical feature using linear regression.
 
-Applying linear regression on features in 'best variation creation' group:
+Results of applying linear regression on features in 'best variation creation' group were proposed below. First, the result of applying linear regression on 'City_ code', which was a feature with the maximum differences among clsasses' mean. Then, the features were combined according eligibility list (presented earlier) and the algorithm 
 
 
 
