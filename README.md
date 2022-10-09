@@ -72,7 +72,7 @@ The obtained results from correlation calculation illustrate that, the relations
 
 At the first, I made my real effort to creat all the possible combination of these features. For example, all the possible way to opt two features from ten and combining them, all the possible way to opt three features from ten and combining them, all the possible way to opt four features from ten and combining them and etc. I did this strategy to combine two, three, four and five features and I found it is not an efficient way because not only investigating all the combinations' figures takes a huge amount of time, but also it is almost impposible beacuse the variation of many combinations are really close to each other and chossing between them is not possible. More important, combining features with this manner will exponentialy increase numbmers of classes sepecifically from four features on. This section code is uploaded as 'Combining features and visualization'.   
 
-Because of these issuses we have to find a way to achieve maximum variation via combining the least numbers of features. Hence, 'the best variation creation' method and 'wisely combining feature' method were proposed. With regards to the former one, the features which have bigger differnce between thier classes' mean , are eligible to be opted for combination. The eligibility can be listed as follow:
+Because of these issuses, we have to find a way to achieve maximum variation via combining the least numbers of features. Hence, 'the best variation creation' method and 'wisely combining feature' method were proposed. With regards to the former one, the features which have bigger differnce between thier classes' mean , are eligible to be opted for combination. The eligibility can be listed as follow:
 
 1- City_code: it has three classes and difference among clasess are 0.08, 2.16 and 2.25.
 
@@ -94,9 +94,15 @@ Because of these issuses we have to find a way to achieve maximum variation via 
 
 The combination's figure of respectively first three, four, five and six features of above list are presented below:
 
+![Best two](https://user-images.githubusercontent.com/42337253/194742970-4aa5dd92-7c24-4ed2-8b1d-f3933ea730ff.png)
 
+![Best three](https://user-images.githubusercontent.com/42337253/194742981-facd7c53-e9df-488d-b55e-763a4379107e.png)
 
+![Best four](https://user-images.githubusercontent.com/42337253/194742989-efbadfee-5412-40a1-9dd6-01e8a9ced5b9.png)
 
+![Best five](https://user-images.githubusercontent.com/42337253/194742995-a16da1ab-4bcb-4df3-929b-3022b788bd7b.png)
+
+![Best six](https://user-images.githubusercontent.com/42337253/194743006-1e7f9e99-bb2c-4d60-b922-492580143541.png)
 
 In terms of latter one, classifing categorical features into two groups of 'participant' and 'interviewer' and then removing features, which only increase numbers of classes and do not improve variation from each class, seems to be more rational. In terms of interviewer group, number of features which can be cinsidered as interviwer information is three ('Interviewer_Gender','Interviewer_Education', 'Interviewer_Ethnicity') and accordingly, the number of classes, which are created with this number of features is eleven. The combination's figure is demontrated in the following:
 
