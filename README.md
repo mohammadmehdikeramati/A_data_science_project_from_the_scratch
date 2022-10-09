@@ -102,17 +102,21 @@ The combination's figure of respectively first three, four, five and six feature
 
 In terms of latter one, classifing categorical features into two groups of 'participant' and 'interviewer' and then removing features, which only increase numbers of classes and do not improve variation from each class, seems to be more rational. In terms of interviewer group, number of features which can be cinsidered as interviwer information is three ('Interviewer_Gender','Interviewer_Education', 'Interviewer_Ethnicity') and accordingly, the number of classes, which are created with this number of features is eleven. The combination's figure is demontrated in the following:
 
-
+![Three interviewer](https://user-images.githubusercontent.com/42337253/194744563-09d2937a-293e-42fe-a47f-478867e0affe.png)
 
 In terms of participnt class, number of features which can be cinsidered as participant information is six ('Eligible', 'Participant_gender', 'Participant_ethnicity', 'Intervention_group', 'City_code', 'Village_StateCode'). Because combination of these number of features can inrease number of classes exponantialy, we removed some of them which accordig the proposed list in 'the best variation creation' method cannot imporove variation too much.
 
 Combintion of all features:
 
+![Six participant](https://user-images.githubusercontent.com/42337253/194744569-adab9904-1e7f-4f75-b5b6-4c8d7fbeacec.png)
+
 Combintion of five features (one of them were removed):
+
+![Five participant](https://user-images.githubusercontent.com/42337253/194744582-919df2e5-3187-4fee-a05d-322846962f2e.png)
 
 Combintion of four features (two of them were removed):
 
-
+![Four participant](https://user-images.githubusercontent.com/42337253/194744588-275da392-017b-49bb-b6a0-41e9332d2a4c.png)
 
 It is noteworthy mentioning that, having closer look at our data set indicates 'Village_Cluster' is not an independent feature.
 
