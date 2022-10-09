@@ -124,7 +124,10 @@ In order to find the best created features (ones which have stronger relation wi
 
 In terms of using regression algortithms, two different approaches were considered: Applying liner regression and a Artificial Neural Network (ANN) based regression. In both methods, algorithms try to predict target using features (one by one). A featre will be selected, which its prediction (result of implementing regression algorithms on it) has a lower Mean Absolute Errore or Mean Squre Error. This part's code was uploaded as 'Regression categorical feature using linear regression.
 
-Results of applying linear regression on features in 'best variation creation' group were proposed below. First, the result of applying linear regression on 'City_ code', which was a feature with the maximum differences among clsasses' mean. Then, the features were combined according eligibility list (presented earlier) and the algorithm 
+Results of applying linear regression on features in 'best variation creation' group were proposed below. In additon, to make comparison in the improvement of regression algortithm's predication, first the result of applying linear regression on 'City_ code', which was a feature with the maximum differences among clsasses' mean was perposed. 
+
+
+First, the result of applying linear regression on 'City_ code', which was a feature with the maximum differences among clsasses' mean. Then, the features were combined according eligibility list (presented earlier) and the algorithm 
 
 
 
