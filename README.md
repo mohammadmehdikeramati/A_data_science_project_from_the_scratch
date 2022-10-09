@@ -34,21 +34,22 @@ Visualizing each pare of a factor and our target can make last step mateixes' vl
 
 ![Eligible](https://user-images.githubusercontent.com/42337253/194745309-099e72bc-776e-4b38-a736-ed3bf48c3322.png)
 
-![Intervention group](https://user-images.githubusercontent.com/42337253/194738746-ddc59ccf-9c58-49fc-9db7-24c1a7724e5b.png)
+![Intervention group](https://user-images.githubusercontent.com/42337253/194746407-9e5db350-4543-44bb-94dc-fd701ff548a3.png)
 
-![Interviewer Ethnicity](https://user-images.githubusercontent.com/42337253/194738751-42f73f0d-8a4f-413a-8108-41da8bb9ac94.png)
+
+![Interviewer Ethnicity](https://user-images.githubusercontent.com/42337253/194746485-ee6b80c8-d800-4d70-947e-e9c3348e821c.png)
 
 ![Interviewer Gender](https://user-images.githubusercontent.com/42337253/194738758-07ef016d-22fe-4a6e-9931-4b71cba4770f.png)
 
 ![Participant ethnicity](https://user-images.githubusercontent.com/42337253/194738762-0bbb7ef2-e332-47b7-af6d-de5f67b947f5.png)
 
-![Participant gender](https://user-images.githubusercontent.com/42337253/194738767-6bf64633-5b45-4fa4-adb9-c345c6a0039a.png)
+![Interviewer Gender](https://user-images.githubusercontent.com/42337253/194746627-a9686723-17ef-4415-aa5b-d592a882ba97.png)
 
-![Village StateCode](https://user-images.githubusercontent.com/42337253/194738790-ed4e49f6-a3f8-4398-9f44-b44025de792e.png)
+![Village StateCode](https://user-images.githubusercontent.com/42337253/194746736-b56fc43a-cad1-48b2-a4df-4d9836549d15.png)
 
-![Interviewer Education](https://user-images.githubusercontent.com/42337253/194738749-2f59852c-f78b-4494-852a-ad8fd23bb503.png)
+![Interviewer Education](https://user-images.githubusercontent.com/42337253/194747938-bc0bad7f-b846-47fa-bc0e-92b74855cff7.png)
 
-![City code](https://user-images.githubusercontent.com/42337253/194739707-4c9df5ec-e450-41d7-8abb-79ec495a0072.png)
+![City code](https://user-images.githubusercontent.com/42337253/194748009-4e82529b-3012-4241-92cc-95beff193a70.png)
 
 ![Village Cluster](https://user-images.githubusercontent.com/42337253/194738775-3aadc8cc-f3d2-435c-a20d-c296822b28b4.png)
 
