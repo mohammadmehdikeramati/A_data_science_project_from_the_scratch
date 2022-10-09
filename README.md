@@ -122,9 +122,8 @@ It is noteworthy mentioning that, having closer look at our data set indicates '
 
 In order to find the best created features (ones which have stronger relation with target), some supervised algorithms were implemented. This is because these algorithms can consider even non linear relations. Finding relation between a categorical feature and a numerical target can be done through two manners. Firstly, considering this problem as a regression problem and using regression algorithm. Secondly, reversing the problem (considering our target as a feature and our feature as a target) and solving it as a classification problem. 
 
+In terms of using regression algortithms, two different approaches were considered: Applying liner regression and a Neural Network based regression. In both methods, algorithms try to predict target using features (one by one). A featre will be selected, which its prediction (result of implementing regression algorithms on it) has a lower Mean Absolute Errore or Mean Squre Error.
 
-
-Indeed, in this method the prediction result of regression algorithms using a feature, which has a lower Mean Absolute Errore or Mean Squre Error, that feature can be opted as the most correlated feature with target
 ## Numerical features
 
 
