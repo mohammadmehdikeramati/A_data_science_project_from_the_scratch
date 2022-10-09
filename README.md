@@ -36,14 +36,13 @@ Visualizing each pare of a factor and our target can make last step mateixes' vl
 
 ![Intervention group](https://user-images.githubusercontent.com/42337253/194746407-9e5db350-4543-44bb-94dc-fd701ff548a3.png)
 
-
 ![Interviewer Ethnicity](https://user-images.githubusercontent.com/42337253/194746485-ee6b80c8-d800-4d70-947e-e9c3348e821c.png)
 
 ![Interviewer Gender](https://user-images.githubusercontent.com/42337253/194748210-61fccc57-7397-4a77-b726-da2c837a4e5a.png)
 
 ![Participant ethnicity](https://user-images.githubusercontent.com/42337253/194748224-6a5d20a9-e3ee-4af6-b0a3-2ebe3aa6fc0f.png)
 
-![Interviewer Gender](https://user-images.githubusercontent.com/42337253/194746627-a9686723-17ef-4415-aa5b-d592a882ba97.png)
+![Participant gender](https://user-images.githubusercontent.com/42337253/194748404-906a43b6-b70f-4a98-ac22-78e382a06e00.png)
 
 ![Village StateCode](https://user-images.githubusercontent.com/42337253/194746736-b56fc43a-cad1-48b2-a4df-4d9836549d15.png)
 
