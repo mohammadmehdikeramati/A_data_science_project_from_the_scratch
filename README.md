@@ -15,13 +15,19 @@ At the first stage to achieve an intuition we used both Pearson and Spearman cor
 
 ![State 5](https://user-images.githubusercontent.com/42337253/194723793-3000a41c-b493-41fa-b219-63dbe4567d6a.PNG)
 
-![State 6](https://user-images.githubusercontent.com/42337253/194723801-b2639a4a-dabc-4070-a85b-394585837a14.PNG)
+
 
 
 The results of applying these two correlation metrics were demonstrated below (respectively the first one is Pearson and the second one is Spearman correlation):
 
+![Pearson corr](https://user-images.githubusercontent.com/42337253/194738203-f29671be-c942-49e3-82af-345721f3bd28.PNG)
 
-The thing about these metrics is that, they are not proper in nonlinear relation detection. Therefore, to detect any nonlinearity we have to employ stronger strategies. The below figure can make this issue more understanable:
+![Spearman corr](https://user-images.githubusercontent.com/42337253/194738207-4285717a-1a11-4803-abc0-55466b0c4bfc.PNG)
+
+
+The thing about these metrics is that, they are not proper in nonlinear relation detection (The below figure can make this issue more understanable). Therefore, to detect any nonlinearity we have to employ stronger strategies. 
+
+![State 6](https://user-images.githubusercontent.com/42337253/194723801-b2639a4a-dabc-4070-a85b-394585837a14.PNG)
 
 ## Feature selection based on visualization
 Visualizing each pare of a factor and our target can make last step mateixes' vlues more sensable. Indeed, if you compare claculated correlation values between 'Month' and 'Quality Score' with their visualiztion, you can understand why both Pearson and Spearman correlation values of this pare is much more than other pares. 
