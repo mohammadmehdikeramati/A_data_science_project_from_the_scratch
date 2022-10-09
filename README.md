@@ -58,6 +58,8 @@ Visualizing each pare of a factor and our target can make last step mateixes' vl
 
 ![Interviewer WorkExperience](https://user-images.githubusercontent.com/42337253/194739581-c26e7f04-76c1-41d6-88a4-a9872a36c67a.png)
 
+![Interviewer_age](https://user-images.githubusercontent.com/42337253/194739982-0a929762-38f7-4701-8700-e2e54924d501.png)
+
 ![FU Month](https://user-images.githubusercontent.com/42337253/194738794-ef4593e5-fa2a-4c7e-9ff7-82ff1a7ef66a.png)
 
 
