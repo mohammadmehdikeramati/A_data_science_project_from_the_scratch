@@ -94,7 +94,7 @@ Because of these issuses, we have to find a way to achieve maximum variation via
 
 The combination's figure of respectively first three, four, five and six features of above list are presented below:
 
-![Best two](https://user-images.githubusercontent.com/42337253/194742970-4aa5dd92-7c24-4ed2-8b1d-f3933ea730ff.png)
+![Best two](https://user-images.githubusercontent.com/42337253/194744108-b3ef823e-1802-45bd-8809-651696081864.png)
 ![Best three](https://user-images.githubusercontent.com/42337253/194742981-facd7c53-e9df-488d-b55e-763a4379107e.png)
 ![Best four](https://user-images.githubusercontent.com/42337253/194742989-efbadfee-5412-40a1-9dd6-01e8a9ced5b9.png)
 ![Best five](https://user-images.githubusercontent.com/42337253/194742995-a16da1ab-4bcb-4df3-929b-3022b788bd7b.png)
