@@ -44,9 +44,11 @@ Visualizing each pare of a factor and our target can make last step mateixes' vl
 
 ![Participant gender](https://user-images.githubusercontent.com/42337253/194738767-6bf64633-5b45-4fa4-adb9-c345c6a0039a.png)
 
+![Village StateCode](https://user-images.githubusercontent.com/42337253/194738790-ed4e49f6-a3f8-4398-9f44-b44025de792e.png)
+
 ![Interviewer Education](https://user-images.githubusercontent.com/42337253/194738749-2f59852c-f78b-4494-852a-ad8fd23bb503.png)
 
-![Village StateCode](https://user-images.githubusercontent.com/42337253/194738790-ed4e49f6-a3f8-4398-9f44-b44025de792e.png)
+![City code](https://user-images.githubusercontent.com/42337253/194739707-4c9df5ec-e450-41d7-8abb-79ec495a0072.png)
 
 ![Village Cluster](https://user-images.githubusercontent.com/42337253/194738775-3aadc8cc-f3d2-435c-a20d-c296822b28b4.png)
 
