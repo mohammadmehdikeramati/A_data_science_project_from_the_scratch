@@ -32,7 +32,7 @@ The thing about these metrics is that, they are not proper in nonlinear relation
 ## Feature selection based on visualization
 Visualizing each pare of a factor and our target can make last step mateixes' vlues more sensable. Indeed, if you compare claculated correlation values between 'Month' and 'Quality Score' with their visualiztion, you can understand why both Pearson and Spearman correlation values of this pare is much more than other pares. This part script is uploaded as 'Visualization'.
 
-![Eligible](https://user-images.githubusercontent.com/42337253/194738733-266cb4f1-2ff8-48b4-87ca-0c7e53d46ec1.png)
+![Eligible](https://user-images.githubusercontent.com/42337253/194745309-099e72bc-776e-4b38-a736-ed3bf48c3322.png)
 
 ![Intervention group](https://user-images.githubusercontent.com/42337253/194738746-ddc59ccf-9c58-49fc-9db7-24c1a7724e5b.png)
 
