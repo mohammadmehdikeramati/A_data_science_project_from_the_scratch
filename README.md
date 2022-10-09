@@ -118,7 +118,7 @@ Combintion of four features (two of them were removed):
 
 ![Four participant](https://user-images.githubusercontent.com/42337253/194744588-275da392-017b-49bb-b6a0-41e9332d2a4c.png)
 
-It is noteworthy mentioning that, having closer look at our data set indicates 'Village_Cluster' is not an independent feature.
+It is noteworthy mentioning that, having closer look at our data set indicates 'Village_Cluster' is not an independent feature. This kind of feature combination is uploaded as 'Combining features and visualization- wisely'.
 
 ## Numerical features
 
