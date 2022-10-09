@@ -18,7 +18,7 @@ At the first stage to achieve an intuition we used both Pearson and Spearman cor
 
 
 
-The results of applying these two correlation metrics were demonstrated below (respectively the first one is Pearson and the second one is Spearman correlation):
+The results of applying these two correlation metrics were demonstrated below (respectively the first one is Pearson and the second one is Spearman correlation). This part code is uploaded as 'Correlation matrix':
 
 ![Pearson corr](https://user-images.githubusercontent.com/42337253/194738203-f29671be-c942-49e3-82af-345721f3bd28.PNG)
 
@@ -31,6 +31,29 @@ The thing about these metrics is that, they are not proper in nonlinear relation
 
 ## Feature selection based on visualization
 Visualizing each pare of a factor and our target can make last step mateixes' vlues more sensable. Indeed, if you compare claculated correlation values between 'Month' and 'Quality Score' with their visualiztion, you can understand why both Pearson and Spearman correlation values of this pare is much more than other pares. 
+
+![Eligible](https://user-images.githubusercontent.com/42337253/194738733-266cb4f1-2ff8-48b4-87ca-0c7e53d46ec1.png)
+
+![Intervention group](https://user-images.githubusercontent.com/42337253/194738746-ddc59ccf-9c58-49fc-9db7-24c1a7724e5b.png)
+
+![Interviewer Education](https://user-images.githubusercontent.com/42337253/194738749-2f59852c-f78b-4494-852a-ad8fd23bb503.png)
+
+![Interviewer Ethnicity](https://user-images.githubusercontent.com/42337253/194738751-42f73f0d-8a4f-413a-8108-41da8bb9ac94.png)
+
+![Interviewer Gender](https://user-images.githubusercontent.com/42337253/194738758-07ef016d-22fe-4a6e-9931-4b71cba4770f.png)
+
+![Participant ethnicity](https://user-images.githubusercontent.com/42337253/194738762-0bbb7ef2-e332-47b7-af6d-de5f67b947f5.png)
+
+![Participant gender](https://user-images.githubusercontent.com/42337253/194738767-6bf64633-5b45-4fa4-adb9-c345c6a0039a.png)
+
+![Village Cluster](https://user-images.githubusercontent.com/42337253/194738775-3aadc8cc-f3d2-435c-a20d-c296822b28b4.png)
+
+![Village Participant Nubmer](https://user-images.githubusercontent.com/42337253/194738784-3e7516e0-93be-4259-bfbd-e09d4c6bb9a6.png)
+
+![Village StateCode](https://user-images.githubusercontent.com/42337253/194738790-ed4e49f6-a3f8-4398-9f44-b44025de792e.png)
+
+![FU Month](https://user-images.githubusercontent.com/42337253/194738794-ef4593e5-fa2a-4c7e-9ff7-82ff1a7ef66a.png)
+
 
 From this step observtion it can be concluded the features can be classified into two main categories, numerical features (such as  'Interviewer_WorkExperience', 'Interviewer_age','FU_Month' ) and categorical features (such as 'Eligible', 'Participant_gender', 'Participant_ethnicity', 'Intervention_group', 'City_code', 'Village_Cluster', 'Village_StateCode','Interviewer_Gender','Interviewer_Education', 'Interviewer_Ethnicity'). So, it is much better to investigate each category seprately.
 
