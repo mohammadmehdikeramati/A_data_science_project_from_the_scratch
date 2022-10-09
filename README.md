@@ -36,8 +36,6 @@ Visualizing each pare of a factor and our target can make last step mateixes' vl
 
 ![Intervention group](https://user-images.githubusercontent.com/42337253/194738746-ddc59ccf-9c58-49fc-9db7-24c1a7724e5b.png)
 
-![Interviewer Education](https://user-images.githubusercontent.com/42337253/194738749-2f59852c-f78b-4494-852a-ad8fd23bb503.png)
-
 ![Interviewer Ethnicity](https://user-images.githubusercontent.com/42337253/194738751-42f73f0d-8a4f-413a-8108-41da8bb9ac94.png)
 
 ![Interviewer Gender](https://user-images.githubusercontent.com/42337253/194738758-07ef016d-22fe-4a6e-9931-4b71cba4770f.png)
@@ -46,11 +44,17 @@ Visualizing each pare of a factor and our target can make last step mateixes' vl
 
 ![Participant gender](https://user-images.githubusercontent.com/42337253/194738767-6bf64633-5b45-4fa4-adb9-c345c6a0039a.png)
 
+![Interviewer Education](https://user-images.githubusercontent.com/42337253/194738749-2f59852c-f78b-4494-852a-ad8fd23bb503.png)
+
 ![Village StateCode](https://user-images.githubusercontent.com/42337253/194738790-ed4e49f6-a3f8-4398-9f44-b44025de792e.png)
 
 ![Village Cluster](https://user-images.githubusercontent.com/42337253/194738775-3aadc8cc-f3d2-435c-a20d-c296822b28b4.png)
 
 ![Village Participant Nubmer](https://user-images.githubusercontent.com/42337253/194738784-3e7516e0-93be-4259-bfbd-e09d4c6bb9a6.png)
+
+![Participant age](https://user-images.githubusercontent.com/42337253/194739576-5883177f-f0ac-4d13-a93f-11f2a846511a.png)
+
+![Interviewer WorkExperience](https://user-images.githubusercontent.com/42337253/194739581-c26e7f04-76c1-41d6-88a4-a9872a36c67a.png)
 
 ![FU Month](https://user-images.githubusercontent.com/42337253/194738794-ef4593e5-fa2a-4c7e-9ff7-82ff1a7ef66a.png)
 
