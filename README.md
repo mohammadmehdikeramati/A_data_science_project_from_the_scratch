@@ -134,8 +134,23 @@ Also, results of applying ANN regression on features in 'best variation creation
 
 
 
-#### Comparison and Conlusion
+As a conclusion, all in all the result of applying ANN for regression porpuse was better than linear regression. This issue is obviouse from making comparison between their prediction visualization, MAE and MSE. This phenomenon shows the relation among our ctegorical features and target can be estimated better using non linear functions in comparison linear noes. T be more specific, 
 
+
+
+
+best 3
+
+from 3 on improving number of features reduced our regression algorithm performance and this beacuse average of classes is the key difference but it is not strong enough to make distiction among huge numbers of vreated classes.
+
+In the following a same procedure was used for 'wisely combining feature' group
+
+4 participant was better than 3 interviewer and from 4 on the network performance reduced
+
+all in all as we expected the result of 'best variation creation' group was better than 'wisely combining feature' group.
+ 
+ 
+ 
 
 #### Two classification solutions
 
