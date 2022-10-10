@@ -182,18 +182,19 @@ MAE: 9.1214 and MSE: 211.0773
 
 
 MAE: 12.3395 and MSE: 283.1067
-![IA-MAE 12 3395](https://user-images.githubusercontent.com/42337253/194887459-116cf1a4-83dc-4e01-b6b1-d98eab407164.png)
+![IA-MAE 12 3395](https://user-images.githubusercontent.com/42337253/194896763-d3aef625-350d-4490-a1ce-738c63f762fc.png)
 
 ![IL-loss](https://user-images.githubusercontent.com/42337253/194887485-2219e56f-ab4c-4dd8-8baa-a72ed16411bd.png)
 
 MAE: 12.3941 and MSE: 284.2482
-![IA-MAE 12 3941](https://user-images.githubusercontent.com/42337253/194890169-a3d8b308-7c38-4336-a83c-e3f438e397ca.png)
+![IA-MAE 12 3941](https://user-images.githubusercontent.com/42337253/194896910-960af78d-642d-4d02-8978-3159f8770e52.png)
 
 ![IL-loss](https://user-images.githubusercontent.com/42337253/194890210-346ea06f-97d1-4e0f-a5ba-70fa670192c3.png)
 
 
 MAE: 12.4319 and MSE: 288.4689
-![PA- MAE 12 4319](https://user-images.githubusercontent.com/42337253/194894448-69b50bd3-0874-4704-8e05-b1f5c6e49525.png)
+![PA- MAE 12 4319](https://user-images.githubusercontent.com/42337253/194897002-0f96b956-38ba-4b3e-a237-94aa8544474c.png)
+
 
 ![PA- loss](https://user-images.githubusercontent.com/42337253/194894449-14d80096-4953-49ca-9e78-3d0e58ba4aa2.png)
 
