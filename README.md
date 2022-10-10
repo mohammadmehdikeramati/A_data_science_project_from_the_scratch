@@ -134,23 +134,12 @@ Also, results of applying ANN regression on features in 'best variation creation
 
 
 
-As a conclusion, all in all the result of applying ANN for regression porpuse was better than linear regression. This issue is obviouse from making comparison between their prediction visualization, MAE and MSE. This phenomenon shows the relation among our ctegorical features and target can be estimated better using non linear functions in comparison linear noes. T be more specific, 
+To sum up, all in all the result of applying ANN for regression porpuse was better than linear regression. This issue is obviouse from making comparison between their prediction visualization, MAE and MSE. This phenomenon shows the relation among our ctegorical features and target can be estimated better using non linear functions in comparison linear noes. To be more specific, both regression algorithms had better performance on combination of first three features of eligibility list and combining more features reduced the network performance. This is because average of classes (mean) is the key difference but it is not strong enough to make distiction among huge numbers of created classes.  
 
 
+In the following a same procedure was used for 'wisely combining feature' group. The thing about this group was that algorithms show better performance on combining four features, which were about participants in comparison with combining three features, which were related to interviewers. Also, combining more than four features of participants decreased the network performcande and this is because the reason, discussed earlier. It is worth mentioning that as we expected the rsult of 'wisely combining feature' group was better than 'best variation creation' group, because its features were combined according eligibility list.
 
 
-best 3
-
-from 3 on improving number of features reduced our regression algorithm performance and this beacuse average of classes is the key difference but it is not strong enough to make distiction among huge numbers of vreated classes.
-
-In the following a same procedure was used for 'wisely combining feature' group
-
-4 participant was better than 3 interviewer and from 4 on the network performance reduced
-
-all in all as we expected the result of 'best variation creation' group was better than 'wisely combining feature' group.
- 
- 
- 
 
 #### Two classification solutions
 
