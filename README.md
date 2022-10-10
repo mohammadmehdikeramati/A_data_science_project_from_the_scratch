@@ -151,13 +151,15 @@ Our ANN architecture was totaly same as the achitecture, used for regression pup
 The results was not realy good and this issue cause us to do not continue to apply on other group and even other combinations in the 'best creation variation' group. In fact, combining features not only did not improve classification, but also make it worse. This is because the classifiers shoulod indicate each vlaue in our target belongs to which class. The thing is, the target's values were literally close to each other and they did not have a specific signature for exact classification pupose and cause our classifiers poor performance. Therefore, reversing problem to find relation was not a good strategy for this problem. Another interesting result, which was out of our expectation was better performance of KNN in comparison with ANN. This isuue shows that, eventhough ANN is a powerfull algorithm, whenever the data was not rich enough, this algorithm can not be trained properly and as a result its performance decreased. 
 
 
-
-
-
-
-
-
-
+                                                             mention about these parts scripts 
+ 
 ### Numerical features
+
+Based on correlation calculation, proposed earlier the relation among numerical features such as 'Participant_age', 'Interviewer_WorkExperience', 'Interviewer_age' and our target is too weak, however 'FU_Month' shows strong relation with our target. In this part we decided to investigate this relation more precisely. In fact, the asssumption of existing a linear and non linear relation among our features and target were being investigated respectively via employing linear regression and an ANN based regression. It worth mentioning that because both features and target are categorical regression appraoch were opted and also because there was not any specific signature to make our numerical feature, categorical classification approaches to detec relation were not implemented.
+
+
+
+
+The obtained results from correlation calculation illustrate that, the relationship (based on Pearson and Spearman) between each categorical feature and our target is too weak
 
 
