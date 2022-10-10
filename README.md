@@ -122,16 +122,22 @@ It is noteworthy mentioning that, having closer look at our data set indicates '
 
 In order to find the best created features (ones which have stronger relation with target), some supervised algorithms were implemented. This is because these algorithms can consider even non linear relations. Finding relation between a categorical feature and a numerical target can be done through two manners. Firstly, considering this problem as a regression problem and using regression algorithm. Secondly, reversing the problem (considering our target as a feature and our feature as a target) and solving it as a classification problem. 
 
-In terms of using regression algortithms, two different approaches were considered: Applying liner regression and a Artificial Neural Network (ANN) based regression. In both methods, algorithms try to predict target using features (one by one). A featre will be selected, which its prediction (result of implementing regression algorithms on it) has a lower Mean Absolute Errore or Mean Squre Error. This part's code was uploaded as 'Regression categorical feature using linear regression.
-
-Results of applying linear regression on features in 'best variation creation' group were proposed below. In additon, to make comparison in the improvement of regression algortithm's predication, first the result of applying linear regression on 'City_ code', which was a feature with the maximum differences among clsasses' mean was perposed. 
-
-
-First, the result of applying linear regression on 'City_ code', which was a feature with the maximum differences among clsasses' mean. Then, the features were combined according eligibility list (presented earlier) and the algorithm 
+### Two rgression solutions
+In terms of using regression algortithms, two different approaches were considered: Applying liner regression and an Artificial Neural Network (ANN) based regression. In both methods, algorithms try to predict target using features (one by one). A featre will be selected, which its prediction (result of implementing regression algorithms on it) has a lower Mean Absolute Errore or Mean Squre Error. This part's code was uploaded as 'Regression categorical feature using linear regression.
 
 
+Results of applying linear regression on features in 'best variation creation' group were proposed below. In additon, to make comparison improvement of regression algortithm's predication (when a new feature was combined), first the result of applying linear regression on 'City_ code', which was a feature with the maximum differences among clsasses' mean was perposed. Then, according eligibility list (presented earlier) features were combined (at the first, two first ones, then three first ones and etc), inear regression were applied and result was demonstrated.
 
-Applying ANN regression on features in 'wisely combining feature' group:
+
+
+Also, results of applying ANN regression on features in 'best variation creation' group were proposed here. The procedure is completely same as the last step but before prposing results, the applied archetecture were presented. This part's code was uploaded as 'Regression categorical feature using an ANN.
+
+
+
+### Comparison and Conlusion
+
+
+### Two classification solutions
 
 
 ## Numerical features
