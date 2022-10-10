@@ -175,6 +175,10 @@ MAE: 11.958
 ![PL- MAE 11 958](https://user-images.githubusercontent.com/42337253/194875440-e11f357a-1d62-43eb-88a7-43326eeb7a88.png)
 
 
+MAE: 9.1214 and MSE: 211.0773
+![MA-MAE 9 1214](https://user-images.githubusercontent.com/42337253/194884917-5bb88eb0-8ae0-4334-a0fe-541e716aeb58.png)
+
+![MA-loss](https://user-images.githubusercontent.com/42337253/194885084-24b55266-fc8e-4974-952b-88967460ba80.png)
 
 
 
