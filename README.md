@@ -159,9 +159,20 @@ Based on correlation calculation, proposed earlier (Pearson and Spearman) the re
 
 In the following results of applying respectively,
 
-
-![ML-MAE 7 909](https://user-images.githubusercontent.com/42337253/194868917-178c319c-d7fd-4a26-a199-8420576c6441.png)
 MAE: 7.909
+![ML-MAE 7 909](https://user-images.githubusercontent.com/42337253/194868917-178c319c-d7fd-4a26-a199-8420576c6441.png)
+
+MAE: 11.964
+![IL-MAE 11 964](https://user-images.githubusercontent.com/42337253/194871117-cb950fdb-fccb-439b-b1aa-222f7dd30b48.png)
+
+MAE: 11.962
+![IL-MAE 11 962](https://user-images.githubusercontent.com/42337253/194872360-94a1975d-de8a-4707-bdce-ca15476d1a65.png)
+
+MAE: 11.958
+![PL- MAE 11 958](https://user-images.githubusercontent.com/42337253/194872453-5264ee85-4fce-4e01-ae09-6db55311ff0f.png)
+
+
+
 
 Interesting issue is better performance of linear regression in comparison with ANN. This because, 
 
