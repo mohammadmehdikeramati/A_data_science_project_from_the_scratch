@@ -157,7 +157,7 @@ The results was not realy good and this issue cause us to do not continue to app
 
 Based on correlation calculation, proposed earlier (Pearson and Spearman) the relation between numerical features such as 'Participant_age', 'Interviewer_WorkExperience', 'Interviewer_age' and our target is too weak, however 'FU_Month' shows strong relation with our target. In this part we decided to investigate this relation more precisely. In fact, the asssumption of existing a linear and non linear relation among our features and target were being investigated respectively via employing linear regression and an ANN based regression. It is worth mentioning that because both features and target are numerical, regression appraoch were opted and also because there was not any specific signature to make our numerical feature, categorical classification approaches to detec relation were not implemented.
 
-In the following results of applying respectively,
+In the following results of applying respectively, linear regression and ANN based regression were proposed. This section codes was uploaded as 'Regression numerical features using linear regression' and 'Regression numerical features using ANN'. 
 
 MAE: 7.909
 ![ML-MAE 7 909](https://user-images.githubusercontent.com/42337253/194875334-ad306eab-b240-44c7-b9fd-6a23ef6c0899.png)
@@ -173,6 +173,7 @@ MAE: 11.962
 
 MAE: 11.958
 ![PL- MAE 11 958](https://user-images.githubusercontent.com/42337253/194875440-e11f357a-1d62-43eb-88a7-43326eeb7a88.png)
+
 
 
 
