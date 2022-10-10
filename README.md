@@ -160,16 +160,20 @@ Based on correlation calculation, proposed earlier (Pearson and Spearman) the re
 In the following results of applying respectively,
 
 MAE: 7.909
-![ML-MAE 7 909](https://user-images.githubusercontent.com/42337253/194868917-178c319c-d7fd-4a26-a199-8420576c6441.png)
+![ML-MAE 7 909](https://user-images.githubusercontent.com/42337253/194875334-ad306eab-b240-44c7-b9fd-6a23ef6c0899.png)
+
 
 MAE: 11.964
-![IL-MAE 11 964](https://user-images.githubusercontent.com/42337253/194871117-cb950fdb-fccb-439b-b1aa-222f7dd30b48.png)
+![IL-MAE 11 964](https://user-images.githubusercontent.com/42337253/194875364-e2cba5fe-6f00-4b60-995a-af35385ecd5a.png)
+
 
 MAE: 11.962
-![IL-MAE 11 962](https://user-images.githubusercontent.com/42337253/194872360-94a1975d-de8a-4707-bdce-ca15476d1a65.png)
+![IL-MAE 11 962](https://user-images.githubusercontent.com/42337253/194875403-10e0d228-22e6-4a63-b704-f5f59a361e8e.png)
+
 
 MAE: 11.958
-![PL- MAE 11 958](https://user-images.githubusercontent.com/42337253/194872453-5264ee85-4fce-4e01-ae09-6db55311ff0f.png)
+![PL- MAE 11 958](https://user-images.githubusercontent.com/42337253/194875440-e11f357a-1d62-43eb-88a7-43326eeb7a88.png)
+
 
 
 
