@@ -130,11 +130,11 @@ Results of applying linear regression on features in 'best variation creation' g
 
 
 
-Also, results of applying ANN regression on features in 'best variation creation' group were proposed here. The procedure is completely same as the last step but before prposing results, the applied archetecture were presented. This part's code was uploaded as 'Regression categorical feature using an ANN.
+Also, results of applying ANN regression on features in 'best variation creation' group were proposed here. The procedure is completely same as the last step but before proposing results, the applied archetecture were presented. This part's code was uploaded as 'Regression categorical feature using an ANN.
 
 
 
-### Comparison and Conlusion
+#### Comparison and Conlusion
 
 
 ### Two classification solutions
