@@ -299,7 +299,7 @@ City_code:
 
 Best_two:
 
-![acc](https:/![Best_two](https://user-images.githubusercontent.com/42337253/195335507-25ce90b8-598c-49b7-9595-2dfb7594cb2f.png)
+![acc](https://user-images.githubusercontent.com/42337253/195336808-44b23074-cbfa-4cb9-b985-a64c19d43b76.PNG)
 ![Best_two](https://user-images.githubusercontent.com/42337253/195335566-b8c67bc1-6b0b-4ce3-9d86-84456644b4f3.png)
 
 
