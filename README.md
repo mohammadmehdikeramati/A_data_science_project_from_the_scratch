@@ -160,6 +160,11 @@ MAE of Best_six: 11.870
 
 Also, results of applying ANN based regression on features in 'best variation creation' group were proposed here. The procedure is completely same as the last step but before proposing results, the applied archetecture were presented. This part's code was uploaded as 'Regression categorical feature using an ANN.
 
+Model:
+
+![model](https://user-images.githubusercontent.com/42337253/195292077-4a209c20-11ad-48a1-b648-af49400b0ef0.PNG)
+
+
 Validation MAE and Mse of City_code respectively: 11.8168 and  256.1124 
 
 ![11b](https://user-images.githubusercontent.com/42337253/195260054-3d03066c-99d2-4dc0-9d4a-a0c9d31b9145.png)
