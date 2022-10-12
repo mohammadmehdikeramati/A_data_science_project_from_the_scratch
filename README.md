@@ -160,42 +160,42 @@ MAE of Best_six: 11.870
 
 Also, results of applying ANN based regression on features in 'best variation creation' group were proposed here. The procedure is completely same as the last step but before proposing results, the applied archetecture were presented. This part's code was uploaded as 'Regression categorical feature using an ANN.
 
-MAE and Mse of City_code respectively: 11.8168 and  256.1124 
+Validation MAE and Mse of City_code respectively: 11.8168 and  256.1124 
 
 ![11b](https://user-images.githubusercontent.com/42337253/195260054-3d03066c-99d2-4dc0-9d4a-a0c9d31b9145.png)
 
 ![loss](https://user-images.githubusercontent.com/42337253/195260060-c0b7c694-9991-410c-b297-aef85e983248.png)
 
 
-MAE and MSE of Best_two respectively: 11.7958 and 256.8635
+Validation MAE and MSE of Best_two respectively: 11.7958 and 256.8635
 
 ![12b](https://user-images.githubusercontent.com/42337253/195259558-18720e2f-5118-42ed-91d0-3159b8957376.png)
 
 ![loss](https://user-images.githubusercontent.com/42337253/195259566-f5e3ae2a-3940-4ac5-88de-94461201b115.png)
 
 
-MAE and MSE of Best_three respectively: 11.7924 and 256.8034
+Validation MAE and MSE of Best_three respectively: 11.7924 and 256.8034
 
 ![13b](https://user-images.githubusercontent.com/42337253/195261427-1005d6cb-a55c-4af4-80e3-2b3691682378.png)
 
 ![loss](https://user-images.githubusercontent.com/42337253/195261435-398ccb96-72a6-4091-aed1-b409d8481ef2.png)
 
 
-MAE and MSE of Best_four respectively: 11.7817 and 257.2674
+Validation MAE and MSE of Best_four respectively: 11.7817 and 257.2674
 
 ![14b](https://user-images.githubusercontent.com/42337253/195268813-9ff37757-62d6-4023-a8b3-f0bb611892fb.png)
 
 ![loss](https://user-images.githubusercontent.com/42337253/195268816-b36c584b-48d2-45f4-b57d-570c5514e7f9.png)
 
 
-MAE and MSE of Best_five respectively: 11.7376 and 262.0800
+Validation MAE and MSE of Best_five respectively: 11.7376 and 262.0800
 
 ![15b](https://user-images.githubusercontent.com/42337253/195271538-2009130d-db29-468c-9476-fe3f60e2df0b.png)
 
 ![loss](https://user-images.githubusercontent.com/42337253/195271549-8e3ae99f-85b9-4aac-9e41-7b590129189a.png)
 
 
-MAE and MSE of Best_six respectively: 11.7412 and 261.9711
+Validation MAE and MSE of Best_six respectively: 11.7412 and 261.9711
 
 ![16b](https://user-images.githubusercontent.com/42337253/195272812-0b421fab-0954-4360-afd6-a4c695f12eac.png)
 
@@ -207,11 +207,47 @@ MAE and MSE of Best_six respectively: 11.7412 and 261.9711
 To sum up, all in all the result of applying ANN for regression porpuse was better than linear regression. This issue is obviouse from making comparison between their prediction visualization, MAE and MSE. This phenomenon shows the relation among our ctegorical features and target can be estimated better using non linear functions in comparison linear noes. To be more specific, both regression algorithms had better performance when it comes to combination of first three features of eligibility list and combining more features reduced the network performance. This is because average of classes (mean) is the key difference but it is not strong enough to make distiction among huge numbers of created classes.  
 
 
-In the following a same procedure was used for 'wisely combining feature' group. The thing about this group was that algorithms show better performance on combining four features, which were about participants in comparison with combining three features, which were related to interviewers. Also, combining more than four features of participants decreased the network performcande and this is because the reason, discussed earlier. It is worth mentioning that as we expected the rsult of 'wisely combining feature' group was better than 'best variation creation' group, because its features were combined according eligibility list.
+In the following a same procedure was used for 'wisely combining feature' group. The thing about this group was that algorithms show better performance on combining four features, which were about participants in comparison with combining three features, which were related to interviewers. Also, combining more than four features of participants decreased the network performcande and this is because the reason, discussed earlier. It is worth mentioning that as we expected the rsult of 'best variation creation' group was better than 'wisely combining feature' group, because its features were combined according eligibility list.
 
-MAE of Four_participant:
 
-MAE of Three_interviewer:
+MAE of Four_participant (Linear regression):
+
+
+MAE of Five_participant (Linear regression):
+
+
+MAE of Six_participant (Linear regression):
+
+
+MAE of Three_interviewer (Linear regression):
+
+
+
+Validation MAE and MSE of Four_participant (ANN based regression) respectively: 11.7897 and 256.5807  
+
+![14p](https://user-images.githubusercontent.com/42337253/195276146-7433ae39-061b-4aa1-9f4a-e6f4cc9b0c23.png)
+
+![loss](https://user-images.githubusercontent.com/42337253/195276145-b1afbb75-b315-41ad-a2c0-ba7989bf1642.png)
+
+
+Validation MAE and MSE of Five_participant (ANN based regression) respectively: 11.7837 and 256.8120
+
+![15p](https://user-images.githubusercontent.com/42337253/195277924-98207b2a-2846-4c5d-a613-b8939c934dde.png)
+
+![loss](https://user-images.githubusercontent.com/42337253/195277954-b89973a3-bfa6-437f-8beb-e5355e4da3f1.png)
+
+
+Validation MAE and MSE of Six_participant (ANN based regression) respectively: 11.7764 and 257.4860 
+
+![16p](https://user-images.githubusercontent.com/42337253/195279494-7a16f1bc-db6e-4574-befc-a7a5efe4c67d.png)
+
+![loss](https://user-images.githubusercontent.com/42337253/195279495-0d0bdf4e-8584-4364-bfe8-2711f6315617.png)
+
+
+Validation MAE and MSE of Three_interviewer (ANN based regression) respectively:
+
+
+
 
 
 #### Two classification solutions
