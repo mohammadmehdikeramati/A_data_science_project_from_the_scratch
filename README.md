@@ -373,4 +373,5 @@ MAE: 12.4319 and MSE: 288.4689
 
 Interesting issue is better performance of linear regression in comparison with ANN. This is because, the relation between our numerical features and target is linear and almost there is not any non linear relation. 
 
+
                                                              
