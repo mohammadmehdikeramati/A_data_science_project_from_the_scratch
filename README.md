@@ -160,10 +160,6 @@ MAE of Best_six: 11.870
 
 Also, results of applying ANN based regression on features in 'best variation creation' group were proposed here. The procedure is completely same as the last step but before proposing results, the applied archetecture were presented. This part's code was uploaded as 'Regression categorical feature using an ANN.
 
-Model:
-
-![model](https://user-images.githubusercontent.com/42337253/195292077-4a209c20-11ad-48a1-b648-af49400b0ef0.PNG)
-
 
 Validation MAE and Mse of City_code respectively: 11.8168 and  256.1124 
 
@@ -266,6 +262,11 @@ Validation MAE and MSE of Three_interviewer (ANN based regression) respectively:
 
 #### Two classification solutions
 We decided to solve this problem reverse to detect if there were any stronger relation. For this purpose two different approaches were employed, K-Neigherest Nighbour and an ANN. The first one is a simple but high speed classifier whereas second one is an accurate but slow. The results of applying KNN on 'best creation variation' group's fearures is prersented below. This section's script was uploaded as 'KNN classifier'.
+
+![acc](https://user-images.githubusercontent.com/42337253/195297918-e23df95b-fc04-4996-8c4d-dd5b2b0c1d01.PNG)
+
+![Uploadin![City_code](https://user-images.githubusercontent.com/42337253/195297928-69969813-a77c-4248-a58e-0d26a7b520cb.png)
+
 
 
 Our ANN architecture was totaly same as the achitecture, used for regression pupose but there was a bit change in their hyperparameters. Indeed, we used accuracy as a metric instead of MSE and MAE. Also, we added a sigmoid activation function in its outputlayer. The results of applying ANN on 'best creation variation' group's fearures is displayed below. This part script was uploaded as 'ANN classifier'.
