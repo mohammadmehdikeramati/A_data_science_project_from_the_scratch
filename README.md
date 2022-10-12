@@ -304,9 +304,14 @@ Best_two:
 
 
 Best_three:
+![acc](https://user-images.githubusercontent.com/42337253/195337291-98541e75-1968-4211-9467-2fa02c412d81.PNG)
+![Best_two](https://user-images.githubusercontent.com/42337253/195337296-79ee33e2-1b98-4c9e-baa1-bb09a9d4d8dd.png)
 
 
 Best_four:
+
+![acc](https://user-images.githubusercontent.com/42337253/195341148-b44b5a58-d278-4b26-9edb-1186dbfee3bc.PNG)
+![Best_four](https://user-images.githubusercontent.com/42337253/195341150-90ebc51f-a303-4c08-a7e4-c6e1f0651bff.png)
 
 
 
