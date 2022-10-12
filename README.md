@@ -287,13 +287,23 @@ Best_four:
 
 ![Best_four](https://user-images.githubusercontent.com/42337253/195304285-9640e4d1-e12d-4b5c-ba07-65b4178e3380.png)
 
-Best_five:
-
-Best_six:
 
 
 
 Our ANN architecture was totaly same as the achitecture, used for regression pupose but there was a bit change in their hyperparameters. Indeed, we used accuracy as a metric instead of MSE and MAE. Also, we added a sigmoid activation function in its outputlayer. The results of applying ANN on 'best creation variation' group's fearures is displayed below. This part script was uploaded as 'ANN classifier'.
+
+City_code:
+
+
+Best_two:
+
+
+Best_three:
+
+
+Best_four:
+
+
 
 
 The results was not realy good and this issue cause us to do not continue to apply on another group and even other combinations in the 'best creation variation' group. In fact, combining features not only did not improve classification, but also make it worse. This is because the classifiers shoulod indicate each vlaue in our target belongs to which class. The thing is, the target's values were literally close to each other and they did not have a specific signature for exact classification pupose and cause our classifiers poor performance. Therefore, reversing problem to find relation was not a good strategy for this problem. Another interesting result, which was out of our expectation was better performance of KNN in comparison with ANN. This isuue shows that, eventhough ANN is a powerfull algorithm, whenever the data was not rich enough, this algorithm can not be trained properly and as a result its performance decreased. 
