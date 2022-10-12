@@ -210,16 +210,23 @@ To sum up, all in all the result of applying ANN for regression porpuse was bett
 In the following a same procedure was used for 'wisely combining feature' group. The thing about this group was that algorithms show better performance on combining four features, which were about participants in comparison with combining three features, which were related to interviewers. Also, combining more than four features of participants decreased the network performcande and this is because the reason, discussed earlier. It is worth mentioning that as we expected the rsult of 'best variation creation' group was better than 'wisely combining feature' group, because its features were combined according eligibility list.
 
 
-MAE of Four_participant (Linear regression):
+MAE of Four_participant (Linear regression): 11.869
+
+![24p](https://user-images.githubusercontent.com/42337253/195283100-110c8572-c496-4cdd-8ed6-00da3e861092.png)
 
 
-MAE of Five_participant (Linear regression):
+MAE of Five_participant (Linear regression): 11.866
+
+![25p](https://user-images.githubusercontent.com/42337253/195283943-72c0aa30-a485-49d1-86a4-55da8b9eeb6f.png)
 
 
-MAE of Six_participant (Linear regression):
+MAE of Six_participant (Linear regression): 11.867
+
+![26p](https://user-images.githubusercontent.com/42337253/195284296-00df0dd1-c0a2-45a7-99a2-ff07ebb8f851.png)
 
 
-MAE of Three_interviewer (Linear regression):
+MAE of Three_interviewer (Linear regression): 11.886
+![23i](https://user-images.githubusercontent.com/42337253/195284902-b151bf61-a370-49e1-b21e-b876c474ed24.png)
 
 
 
@@ -244,9 +251,11 @@ Validation MAE and MSE of Six_participant (ANN based regression) respectively: 1
 ![loss](https://user-images.githubusercontent.com/42337253/195279495-0d0bdf4e-8584-4364-bfe8-2711f6315617.png)
 
 
-Validation MAE and MSE of Three_interviewer (ANN based regression) respectively:
+Validation MAE and MSE of Three_interviewer (ANN based regression) respectively: 11.8562 and 257.0421 
 
+![13i](https://user-images.githubusercontent.com/42337253/195281776-1b913941-74f7-4be4-842d-5c771c07bc2b.png)
 
+![loss](https://user-images.githubusercontent.com/42337253/195281790-bfbf9185-431f-4ad2-8749-0f7057363fd2.png)
 
 
 
