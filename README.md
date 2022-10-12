@@ -139,16 +139,23 @@ MAE of Best_two: 11.862
 
 
 MAE of Best_three: 11.863
+
 ![23b](https://user-images.githubusercontent.com/42337253/195254216-3f88fe64-5a12-4406-9f18-6613232c62a2.png)
 
 
+MAE of Best_four:11.870
+
+![24b](https://user-images.githubusercontent.com/42337253/195254763-f632a217-4572-4997-b850-8cd47d9010aa.png)
 
 
-MAE of Best_four:
-MAE of Best_five:
-MAE of Best_six:
+MAE of Best_five:11.870
 
-MAE of Three_interviewer:
+![25b](https://user-images.githubusercontent.com/42337253/195255104-8beb4268-7201-494d-8321-6e5be34d67b7.png)
+
+
+MAE of Best_six:11.870
+
+![62b](https://user-images.githubusercontent.com/42337253/195255402-7a62dabb-1132-42e7-b639-70e6ed06193c.png)
 
 
 Also, results of applying ANN based regression on features in 'best variation creation' group were proposed here. The procedure is completely same as the last step but before proposing results, the applied archetecture were presented. This part's code was uploaded as 'Regression categorical feature using an ANN.
@@ -160,6 +167,9 @@ To sum up, all in all the result of applying ANN for regression porpuse was bett
 
 In the following a same procedure was used for 'wisely combining feature' group. The thing about this group was that algorithms show better performance on combining four features, which were about participants in comparison with combining three features, which were related to interviewers. Also, combining more than four features of participants decreased the network performcande and this is because the reason, discussed earlier. It is worth mentioning that as we expected the rsult of 'wisely combining feature' group was better than 'best variation creation' group, because its features were combined according eligibility list.
 
+MAE of Four_participant:
+
+MAE of Three_interviewer:
 
 
 #### Two classification solutions
