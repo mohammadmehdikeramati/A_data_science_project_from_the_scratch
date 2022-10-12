@@ -123,11 +123,32 @@ It is noteworthy mentioning that, having closer look at our data set indicates '
 In order to find the best created features (ones which have stronger relation with target), some supervised algorithms were implemented. This is because these algorithms can consider even non linear relations. Finding relation between a categorical feature and a numerical target can be done through two manners. Firstly, considering this problem as a regression problem and using regression algorithm. Secondly, reversing the problem (considering our target as a feature and our feature as a target) and solving it as a classification problem. 
 
 #### Two rgression solutions
-In terms of using regression algortithms, two different approaches were considered: Applying liner regression and an Artificial Neural Network (ANN) based regression. In both methods, algorithms try to predict target using features (one by one). A featre will be selected, which its prediction (result of implementing regression algorithms on it) has a lower Mean Absolute Errore or Mean Squre Error. This part's code was uploaded as 'Regression categorical feature using linear regression.
+In terms of using regression algortithms, two different approaches were considered: Applying linear regression and an Artificial Neural Network (ANN) based regression. In both methods, algorithms try to predict target using features (one by one). A featre will be selected, which its prediction (result of implementing regression algorithms on it) has a lower Mean Absolute Errore or Mean Squre Error. This part's code was uploaded as 'Regression categorical feature using linear regression.
 
 
 Results of applying linear regression on features in 'best variation creation' group were proposed below. In additon, to make comparison improvement of regression algortithm's predication (when a new feature was combined), first the result of applying linear regression on 'City_ code', which was a feature with the maximum differences among clsasses' mean was perposed. Then, according eligibility list (presented earlier) features were combined (at the first, two first ones, then three first ones and etc), inear regression were applied and result was demonstrated.
 
+MAE of City_code: 11.863
+
+![21b](https://user-images.githubusercontent.com/42337253/195253595-d7840642-ccdf-4b4b-85a2-ce2665de1886.png)
+
+
+MAE of Best_two: 11.862
+
+![22b](https://user-images.githubusercontent.com/42337253/195253980-e7b6becd-0e8c-4de4-aa6f-95ad202c92a4.png)
+
+
+MAE of Best_three: 11.863
+![23b](https://user-images.githubusercontent.com/42337253/195254216-3f88fe64-5a12-4406-9f18-6613232c62a2.png)
+
+
+
+
+MAE of Best_four:
+MAE of Best_five:
+MAE of Best_six:
+
+MAE of Three_interviewer:
 
 
 Also, results of applying ANN based regression on features in 'best variation creation' group were proposed here. The procedure is completely same as the last step but before proposing results, the applied archetecture were presented. This part's code was uploaded as 'Regression categorical feature using an ANN.
