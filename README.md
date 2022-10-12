@@ -174,13 +174,11 @@ MAE and MSE of Best_two respectively: 11.7958 and 256.8635
 ![loss](https://user-images.githubusercontent.com/42337253/195259566-f5e3ae2a-3940-4ac5-88de-94461201b115.png)
 
 
-
 MAE and MSE of Best_three respectively: 11.7924 and 256.8034
 
 ![13b](https://user-images.githubusercontent.com/42337253/195261427-1005d6cb-a55c-4af4-80e3-2b3691682378.png)
 
 ![loss](https://user-images.githubusercontent.com/42337253/195261435-398ccb96-72a6-4091-aed1-b409d8481ef2.png)
-
 
 
 MAE and MSE of Best_four respectively: 11.7817 and 257.2674
@@ -190,13 +188,18 @@ MAE and MSE of Best_four respectively: 11.7817 and 257.2674
 ![loss](https://user-images.githubusercontent.com/42337253/195268816-b36c584b-48d2-45f4-b57d-570c5514e7f9.png)
 
 
-MAE and MSE of Best_five respectively:  and
+MAE and MSE of Best_five respectively: 11.7376 and 262.0800
+
+![15b](https://user-images.githubusercontent.com/42337253/195271538-2009130d-db29-468c-9476-fe3f60e2df0b.png)
+
+![loss](https://user-images.githubusercontent.com/42337253/195271549-8e3ae99f-85b9-4aac-9e41-7b590129189a.png)
 
 
+MAE and MSE of Best_six respectively: 11.7412 and 261.9711
 
+![16b](https://user-images.githubusercontent.com/42337253/195272812-0b421fab-0954-4360-afd6-a4c695f12eac.png)
 
-MAE and MSE of Best_six respectively:  and
-
+![loss](https://user-images.githubusercontent.com/42337253/195272829-70d28ebf-a472-427e-a423-6de131995527.png)
 
 
 
