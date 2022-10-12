@@ -205,7 +205,10 @@ Validation MAE and MSE of Best_six respectively: 11.7412 and 261.9711
 
 
 
-To sum up, all in all the result of applying ANN for regression porpuse was better than linear regression. This issue is obviouse from making comparison between their prediction visualization, MAE and MSE. This phenomenon shows the relation among our ctegorical features and target can be estimated better using non linear functions in comparison linear noes. To be more specific, both regression algorithms had better performance when it comes to combination of first three features of eligibility list and combining more features reduced the network performance. This is because average of classes (mean) is the key difference but it is not strong enough to make distiction among huge numbers of created classes.  
+To sum up, all in all the result of applying ANN for regression porpuse was better than linear regression (the figure below can prove this issue). This issue is obviouse from making comparison between their prediction visualization, MAE and MSE. This phenomenon shows the relation among our ctegorical features and target can be estimated better using non linear functions in comparison linear noes. To be more specific, both regression algorithms had better performance when it comes to combination of first three features of eligibility list and combining more features reduced the network performance. This is because average of classes (mean) is the key difference but it is not strong enough to make distiction among huge numbers of created classes.  
+
+![Linear regression vs ANN- Best three](https://user-images.githubusercontent.com/42337253/195352417-046e64c7-99bb-42a5-927d-a6392ebcf6b0.png)
+
 
 
 In the following a same procedure was used for 'wisely combining feature' group. The thing about this group was that algorithms show better performance on combining four features, which were about participants in comparison with combining three features, which were related to interviewers. Also, combining more than four features of participants decreased the network performcande and this is because the reason, discussed earlier. It is worth mentioning that as we expected the rsult of 'best variation creation' group was better than 'wisely combining feature' group, because its features were combined according eligibility list.
