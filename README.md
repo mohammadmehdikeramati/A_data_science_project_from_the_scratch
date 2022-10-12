@@ -265,7 +265,8 @@ We decided to solve this problem reverse to detect if there were any stronger re
 
 ![acc](https://user-images.githubusercontent.com/42337253/195297918-e23df95b-fc04-4996-8c4d-dd5b2b0c1d01.PNG)
 
-![Uploadin![City_code](https://user-images.githubusercontent.com/42337253/195297928-69969813-a77c-4248-a58e-0d26a7b520cb.png)
+![City_code_1](https://user-images.githubusercontent.com/42337253/195298571-886af286-edf9-412a-b5e1-971c81a1a49b.png)
+
 
 
 
