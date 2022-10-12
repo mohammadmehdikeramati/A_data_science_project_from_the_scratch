@@ -263,17 +263,36 @@ Validation MAE and MSE of Three_interviewer (ANN based regression) respectively:
 #### Two classification solutions
 We decided to solve this problem reverse to detect if there were any stronger relation. For this purpose two different approaches were employed, K-Neigherest Nighbour and an ANN. The first one is a simple but high speed classifier whereas second one is an accurate but slow. The results of applying KNN on 'best creation variation' group's fearures is prersented below. This section's script was uploaded as 'KNN classifier'.
 
+City_code:
+
 ![acc](https://user-images.githubusercontent.com/42337253/195297918-e23df95b-fc04-4996-8c4d-dd5b2b0c1d01.PNG)
 
 ![City_code_1](https://user-images.githubusercontent.com/42337253/195298571-886af286-edf9-412a-b5e1-971c81a1a49b.png)
 
+Best_two:
+
+![acc](https://user-images.githubusercontent.com/42337253/195301267-c4fd41df-cee1-4154-87cc-5ae2c6c21704.PNG)
+
+![Best_two](https://user-images.githubusercontent.com/42337253/195301278-59b5342b-6e0c-4678-943a-4d013d97704b.png)
+
+Best_three:
+
+![acc](https://user-images.githubusercontent.com/42337253/195301928-c30c5bd5-edec-432f-8253-1fe52c1cce50.PNG)
+
+![Best_three](https://user-images.githubusercontent.com/42337253/195301940-de93e9ec-23bb-4460-9b15-e09a2e88676e.png)
+
+Best_four:
+
+Best_five:
+
+Best_six:
 
 
 
 Our ANN architecture was totaly same as the achitecture, used for regression pupose but there was a bit change in their hyperparameters. Indeed, we used accuracy as a metric instead of MSE and MAE. Also, we added a sigmoid activation function in its outputlayer. The results of applying ANN on 'best creation variation' group's fearures is displayed below. This part script was uploaded as 'ANN classifier'.
 
 
-The results was not realy good and this issue cause us to do not continue to apply on other group and even other combinations in the 'best creation variation' group. In fact, combining features not only did not improve classification, but also make it worse. This is because the classifiers shoulod indicate each vlaue in our target belongs to which class. The thing is, the target's values were literally close to each other and they did not have a specific signature for exact classification pupose and cause our classifiers poor performance. Therefore, reversing problem to find relation was not a good strategy for this problem. Another interesting result, which was out of our expectation was better performance of KNN in comparison with ANN. This isuue shows that, eventhough ANN is a powerfull algorithm, whenever the data was not rich enough, this algorithm can not be trained properly and as a result its performance decreased. 
+The results was not realy good and this issue cause us to do not continue to apply on another group and even other combinations in the 'best creation variation' group. In fact, combining features not only did not improve classification, but also make it worse. This is because the classifiers shoulod indicate each vlaue in our target belongs to which class. The thing is, the target's values were literally close to each other and they did not have a specific signature for exact classification pupose and cause our classifiers poor performance. Therefore, reversing problem to find relation was not a good strategy for this problem. Another interesting result, which was out of our expectation was better performance of KNN in comparison with ANN. This isuue shows that, eventhough ANN is a powerfull algorithm, whenever the data was not rich enough, this algorithm can not be trained properly and as a result its performance decreased. 
 
 
                                                        
