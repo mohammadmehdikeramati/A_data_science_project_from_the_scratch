@@ -294,6 +294,9 @@ Our ANN architecture was totaly same as the achitecture, used for regression pup
 
 City_code:
 
+![City_code](https://user-images.githubusercontent.com/42337253/195314915-d3babc1f-f000-43e0-a0d4-82570a309d63.png)
+![acc](https://user-images.githubusercontent.com/42337253/195314930-f0f8d07e-e658-40de-b28c-b5e1fa412ec3.PNG)
+
 
 Best_two:
 
