@@ -161,47 +161,47 @@ MAE of Best_six: 11.870
 Also, results of applying ANN based regression on features in 'best variation creation' group were proposed here. The procedure is completely same as the last step but before proposing results, the applied archetecture were presented. This part's code was uploaded as 'Regression categorical feature using an ANN.
 
 
-Validation MAE and Mse of City_code respectively: 11.8168 and  256.1124 
+Validation MAE of City_code: 0.7421693643199738 
 
-![11b](https://user-images.githubusercontent.com/42337253/195260054-3d03066c-99d2-4dc0-9d4a-a0c9d31b9145.png)
+![11b(0 7421693643199738)](https://user-images.githubusercontent.com/42337253/195918579-d38ba56f-e3e3-4456-a3ce-2b9bcb984f35.png)
 
-![loss](https://user-images.githubusercontent.com/42337253/195260060-c0b7c694-9991-410c-b297-aef85e983248.png)
-
-
-Validation MAE and MSE of Best_two respectively: 11.7958 and 256.8635
-
-![12b](https://user-images.githubusercontent.com/42337253/195259558-18720e2f-5118-42ed-91d0-3159b8957376.png)
-
-![loss](https://user-images.githubusercontent.com/42337253/195259566-f5e3ae2a-3940-4ac5-88de-94461201b115.png)
+![loss(0 7421693643199738)](https://user-images.githubusercontent.com/42337253/195918633-cfb40873-2fb4-4eaf-9096-46c0d6f81c8b.png)
 
 
-Validation MAE and MSE of Best_three respectively: 11.7924 and 256.8034
+Validation MAE of Best_two: 0.7415406365835382
 
-![13b](https://user-images.githubusercontent.com/42337253/195261427-1005d6cb-a55c-4af4-80e3-2b3691682378.png)
+![12b(0 7415406365835382)](https://user-images.githubusercontent.com/42337253/195918828-62b136aa-bfd5-4501-888f-fffc0727920e.png)
 
-![loss](https://user-images.githubusercontent.com/42337253/195261435-398ccb96-72a6-4091-aed1-b409d8481ef2.png)
-
-
-Validation MAE and MSE of Best_four respectively: 11.7817 and 257.2674
-
-![14b](https://user-images.githubusercontent.com/42337253/195268813-9ff37757-62d6-4023-a8b3-f0bb611892fb.png)
-
-![loss](https://user-images.githubusercontent.com/42337253/195268816-b36c584b-48d2-45f4-b57d-570c5514e7f9.png)
+![loss(0 7415406365835382)](https://user-images.githubusercontent.com/42337253/195918852-54b8d7dc-7c46-4663-8ed4-e997c153492c.png)
 
 
-Validation MAE and MSE of Best_five respectively: 11.7376 and 262.0800
+Validation MAE of Best_three: 0.742745038042128
 
-![15b](https://user-images.githubusercontent.com/42337253/195271538-2009130d-db29-468c-9476-fe3f60e2df0b.png)
+![13b(0 742745038042128)](https://user-images.githubusercontent.com/42337253/195919190-b038a870-e297-4d4f-ad93-23c5ba846f13.png)
 
-![loss](https://user-images.githubusercontent.com/42337253/195271549-8e3ae99f-85b9-4aac-9e41-7b590129189a.png)
+![loss(0 742745038042128)](https://user-images.githubusercontent.com/42337253/195919203-4053800b-a047-4504-afff-0180ce930115.png)
 
 
-Validation MAE and MSE of Best_six respectively: 11.7412 and 261.9711
 
-![16b](https://user-images.githubusercontent.com/42337253/195272812-0b421fab-0954-4360-afd6-a4c695f12eac.png)
+Validation MAE of Best_four: 0.7431747175569832
 
-![loss](https://user-images.githubusercontent.com/42337253/195272829-70d28ebf-a472-427e-a423-6de131995527.png)
+![14b(0 7431747175569832)](https://user-images.githubusercontent.com/42337253/195919330-b8a94d2e-1fd5-49b4-90e3-362abd390b2d.png)
 
+![loss(0 7431747175569832)](https://user-images.githubusercontent.com/42337253/195919336-68fe1fad-d077-4bb9-be5e-8ab55e16b838.png)
+
+
+Validation MAE of Best_five: 0.7433048499085942 
+
+![15b(0 7433048499085942)](https://user-images.githubusercontent.com/42337253/195919577-89d02422-4e73-4514-b8b8-72362a6ea9d9.png)
+
+![loss(0 7433048499085942)](https://user-images.githubusercontent.com/42337253/195919636-d36a55e6-56f5-4184-a4b1-d5f4d287c903.png)
+
+
+Validation MAE of Best_six: 0.7441807791097875
+
+![16b(0 7441807791097875)](https://user-images.githubusercontent.com/42337253/195920000-93310e07-cf88-4552-b8ba-1f12d1654288.png)
+
+![loss(0 7441807791097875)](https://user-images.githubusercontent.com/42337253/195920007-389015cb-13b9-458c-9af8-3662852960d6.png)
 
 
 
