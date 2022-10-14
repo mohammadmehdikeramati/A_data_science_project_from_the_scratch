@@ -209,6 +209,7 @@ To sum up, all in all the result of applying ANN for regression porpuse was bett
 
 ![Linear regression vs ANN- Best three](https://user-images.githubusercontent.com/42337253/195352417-046e64c7-99bb-42a5-927d-a6392ebcf6b0.png)
 
+![City_code vs Best_two](https://user-images.githubusercontent.com/42337253/195921158-f3b099ac-19e8-43a5-b1de-2970e5e2bdef.png)
 
 
 In the following a same procedure was used for 'wisely combining feature' group. The thing about this group was that algorithms show better performance on combining four features, which were about participants in comparison with combining three features, which were related to interviewers. Also, combining more than four features of participants decreased the network performcande and this is because the reason, discussed earlier. It is worth mentioning that as we expected the rsult of 'best variation creation' group was better than 'wisely combining feature' group, because its features were combined according eligibility list.
