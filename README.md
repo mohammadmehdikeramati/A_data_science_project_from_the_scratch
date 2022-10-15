@@ -235,32 +235,34 @@ MAE of Three_interviewer (Linear regression): 11.886
 
 
 
-Validation MAE and MSE of Four_participant (ANN based regression) respectively: 11.7897 and 256.5807  
+Validation MAE (ANN based regression): 0.7436238367965747  
 
-![14p](https://user-images.githubusercontent.com/42337253/195276146-7433ae39-061b-4aa1-9f4a-e6f4cc9b0c23.png)
-
-![loss](https://user-images.githubusercontent.com/42337253/195276145-b1afbb75-b315-41ad-a2c0-ba7989bf1642.png)
+![14p(0 7436238367965747)](https://user-images.githubusercontent.com/42337253/195993429-41794cb5-9100-460e-b16a-0ecfdd5b7936.png)
 
 
-Validation MAE and MSE of Five_participant (ANN based regression) respectively: 11.7837 and 256.8120
-
-![15p](https://user-images.githubusercontent.com/42337253/195277924-98207b2a-2846-4c5d-a613-b8939c934dde.png)
-
-![loss](https://user-images.githubusercontent.com/42337253/195277954-b89973a3-bfa6-437f-8beb-e5355e4da3f1.png)
+![loss(0 7436238367965747)](https://user-images.githubusercontent.com/42337253/195993432-81266c81-cdc4-4383-b5d9-92dbdd328300.png)
 
 
-Validation MAE and MSE of Six_participant (ANN based regression) respectively: 11.7764 and 257.4860 
+Validation MAE of Five_participant (ANN based regression): 0.7436517098824937
 
-![16p](https://user-images.githubusercontent.com/42337253/195279494-7a16f1bc-db6e-4574-befc-a7a5efe4c67d.png)
+![15p(0 7436517098824937)](https://user-images.githubusercontent.com/42337253/195993482-12e08c9a-4f81-4cb9-8b3f-d748c5f04f96.png)
 
-![loss](https://user-images.githubusercontent.com/42337253/195279495-0d0bdf4e-8584-4364-bfe8-2711f6315617.png)
+![loss (0 7436517098824937)](https://user-images.githubusercontent.com/42337253/195993488-edd2847e-6897-4b83-b73f-897a69de3cf9.png)
 
 
-Validation MAE and MSE of Three_interviewer (ANN based regression) respectively: 11.8562 and 257.0421 
+Validation MAE of Six_participant (ANN based regression): 0.7440071549946741
 
-![13i](https://user-images.githubusercontent.com/42337253/195281776-1b913941-74f7-4be4-842d-5c771c07bc2b.png)
+![16p(0 7440071549946741)](https://user-images.githubusercontent.com/42337253/195993530-596b53e6-6f4c-471f-bbc5-0bfdd54aed1a.png)
 
-![loss](https://user-images.githubusercontent.com/42337253/195281790-bfbf9185-431f-4ad2-8749-0f7057363fd2.png)
+![loss(0 7440071549946741)](https://user-images.githubusercontent.com/42337253/195993533-52d79b7b-8fcc-4147-8c3f-4e3316b11608.png)
+
+
+Validation MAE of Three_interviewer: 0.7436813963040475
+
+![13i(0 7436813963040475)](https://user-images.githubusercontent.com/42337253/195993566-d7936d6a-952d-45c0-a229-24ea8652b64f.png)
+
+![loss (0 7436813963040475)](https://user-images.githubusercontent.com/42337253/195993572-69218554-7314-4a7f-84d4-d178218f4378.png)
+
 
 
 
