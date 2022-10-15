@@ -235,7 +235,7 @@ MAE of Three_interviewer (Linear regression): 11.886
 
 
 
-Validation MAE (ANN based regression): 0.7436238367965747  
+Validation MAE of Four_participant (ANN based regression): 0.7436238367965747  
 
 ![14p(0 7436238367965747)](https://user-images.githubusercontent.com/42337253/195993429-41794cb5-9100-460e-b16a-0ecfdd5b7936.png)
 
