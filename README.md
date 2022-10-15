@@ -346,7 +346,7 @@ MAE of Interviewer_workExperience: 11.962
 ![IL-MAE 11 962](https://user-images.githubusercontent.com/42337253/194875403-10e0d228-22e6-4a63-b704-f5f59a361e8e.png)
 
 
-MAE of Interviewer_age: 11.958
+MAE of Participant_age: 11.958
 ![PL- MAE 11 958](https://user-images.githubusercontent.com/42337253/194875440-e11f357a-1d62-43eb-88a7-43326eeb7a88.png)
 
 
@@ -367,7 +367,7 @@ MAE and MSE of Interviewer_workExperience respectively: 12.3941 and 284.2482
 ![IL-loss](https://user-images.githubusercontent.com/42337253/194890210-346ea06f-97d1-4e0f-a5ba-70fa670192c3.png)
 
 
-MAE and MSE of Interviewer_age respectively: 12.4319 and 288.4689
+MAE and MSE of Participant_age respectively: 12.4319 and 288.4689
 ![PA- MAE 12 4319](https://user-images.githubusercontent.com/42337253/194897002-0f96b956-38ba-4b3e-a237-94aa8544474c.png)
 
 
