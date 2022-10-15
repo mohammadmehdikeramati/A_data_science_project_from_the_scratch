@@ -334,40 +334,40 @@ Based on correlation calculation, proposed earlier (Pearson and Spearman) the re
 
 In the following results of applying respectively, linear regression and ANN based regression were proposed. This section codes was uploaded as 'Regression numerical features using linear regression' and 'Regression numerical features using ANN'. 
 
-MAE: 7.909
+MAE of FU_Month: 7.909
 ![ML-MAE 7 909](https://user-images.githubusercontent.com/42337253/194875334-ad306eab-b240-44c7-b9fd-6a23ef6c0899.png)
 
 
-MAE: 11.964
+MAE of Interviewer_age: 11.964
 ![IL-MAE 11 964](https://user-images.githubusercontent.com/42337253/194875364-e2cba5fe-6f00-4b60-995a-af35385ecd5a.png)
 
 
-MAE: 11.962
+MAE of Interviewer_workExperience: 11.962
 ![IL-MAE 11 962](https://user-images.githubusercontent.com/42337253/194875403-10e0d228-22e6-4a63-b704-f5f59a361e8e.png)
 
 
-MAE: 11.958
+MAE of Interviewer_age: 11.958
 ![PL- MAE 11 958](https://user-images.githubusercontent.com/42337253/194875440-e11f357a-1d62-43eb-88a7-43326eeb7a88.png)
 
 
-MAE: 9.1214 and MSE: 211.0773
+MAE and MSE of FU_Month respectively: 9.1214 and 211.0773
 ![MA-MAE 9 1214](https://user-images.githubusercontent.com/42337253/194884917-5bb88eb0-8ae0-4334-a0fe-541e716aeb58.png)
 
 ![MA-loss](https://user-images.githubusercontent.com/42337253/194885084-24b55266-fc8e-4974-952b-88967460ba80.png)
 
 
-MAE: 12.3395 and MSE: 283.1067
+MAE and MSE of Interviewer_age respectively: 12.3395 : 283.1067
 ![IA-MAE 12 3395](https://user-images.githubusercontent.com/42337253/194896763-d3aef625-350d-4490-a1ce-738c63f762fc.png)
 
 ![IL-loss](https://user-images.githubusercontent.com/42337253/194887485-2219e56f-ab4c-4dd8-8baa-a72ed16411bd.png)
 
-MAE: 12.3941 and MSE: 284.2482
+MAE and MSE of Interviewer_workExperience respectively: 12.3941 and 284.2482
 ![IA-MAE 12 3941](https://user-images.githubusercontent.com/42337253/194896910-960af78d-642d-4d02-8978-3159f8770e52.png)
 
 ![IL-loss](https://user-images.githubusercontent.com/42337253/194890210-346ea06f-97d1-4e0f-a5ba-70fa670192c3.png)
 
 
-MAE: 12.4319 and MSE: 288.4689
+MAE and MSE of Interviewer_age respectively: 12.4319 and 288.4689
 ![PA- MAE 12 4319](https://user-images.githubusercontent.com/42337253/194897002-0f96b956-38ba-4b3e-a237-94aa8544474c.png)
 
 
